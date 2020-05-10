@@ -9,7 +9,7 @@ end
 def raise_hand
   10.times do
 super
-puts "Pick me!"
+ "Pick me!"
 end
 end
 
