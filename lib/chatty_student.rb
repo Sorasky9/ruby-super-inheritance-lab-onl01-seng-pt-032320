@@ -7,8 +7,8 @@ end
 
 
 def raise_hand
-super + 10
-puts "Pick me!"
+super
+puts "Pick me!" * 10
 end
 
 end
